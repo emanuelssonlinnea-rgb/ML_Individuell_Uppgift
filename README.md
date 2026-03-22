@@ -20,7 +20,7 @@ macOS/Linux:
 source .venv/bin/activate
 
 installera beroenden:
-cd ML_Grupp5 python -m pip install -r requirements.txt
+cd ML_Individuell_Uppgift python -m pip install -r requirements.txt
 Användning
 
 Öppna och kör följande notebook:
